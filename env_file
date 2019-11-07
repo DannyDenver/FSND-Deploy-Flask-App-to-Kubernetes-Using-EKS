@@ -1,0 +1,2 @@
+JWT_SECRET=mysweetjwtsecret
+LOG_LEVEL=DEBUG
