@@ -3,6 +3,7 @@ FROM python:stretch
 COPY . /app
 WORKDIR /app
 
+
 RUN pip3 install --upgrade pip
 
 COPY requirements.txt requirements.txt
